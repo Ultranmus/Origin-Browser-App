@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Origin</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="history">History</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="lock_icon">lock_icon</string>
+    <string name="search_here">Search here!!!!</string>
+    <string name="mic_img">mic img</string>
+    <string name="cross_img">cross img</string>
+    <string name="about_us">About Us</string>
+    <string name="developed_by_hash_mack">Developed by Hash Mack</string>
+    <string name="contact_via_email">Contact via Email</string>
+    <string name="mbl">Mobile Mode</string>
+    <string name="dsk">Desktop Mode</string>
+</resources>
